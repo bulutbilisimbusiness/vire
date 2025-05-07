@@ -2,4 +2,4 @@
 
 ## 🔗 Live Demo
 
-👉 [Click and try now](https://senin-projen.vercel.app/)
+👉 [Click and try now](https://vire-livid.vercel.app/)
